@@ -1,0 +1,19 @@
+.header {
+	color: $white;
+	.headerTitle {
+		background-color: $white;
+	}
+}
+
+.main {
+	color: $white;
+	.textcomponent {
+		color: $red;
+		background-color: $white;
+	}
+}
+
+.footer {
+	color: $white;
+	background-color: $red;
+}
